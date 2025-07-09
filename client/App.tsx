@@ -35,4 +35,4 @@ const App = () => (
   </UserProvider>
 );
 
-createRoot(document.getElementById("root")!).render(<App />);
+export default App;
